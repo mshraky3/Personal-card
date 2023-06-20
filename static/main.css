@@ -27,6 +27,7 @@ header {
 
 
 .line { 
+	height: 0.000001px; 
 	position: relative;
 	height:0;
 	background: white;
