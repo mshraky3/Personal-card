@@ -79,6 +79,7 @@ ul {
 @media(max-width: 600px) {
 
 	#main { 
+		display: inline;
 		font-size: 2rem;
 		width: 80%;
 		margin-top: 10%;
@@ -95,7 +96,7 @@ ul {
 		box-shadow: 10px 10px 25px rgba(64, 137, 197, 0.5);
 	}
 	.icons li a img {
-		width: 40%;
+		width: 30%;
 	
 	
 	
@@ -122,8 +123,9 @@ ul {
 	@media(max-width: 900px) {
 
 		#main { 
+			display: inline;
 			font-size: 3rem;
-			width: 60%;
+			width: 40%;
 			margin-top: 10%;
 			margin-bottom: 10%;
 			background-color:white;
